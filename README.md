@@ -19,11 +19,11 @@ already been taped-out at least once:
 
 #### Coffeepot
 
-![coffeepot](doc/coffeeepot.png) 
+![coffeepot](doc/coffeepot.png) 
 
 #### Teapot
 
-![teapot](doc/expresso.png) 
+![teapot](doc/teapot.png) 
 
 #### Coldbrew
 
