@@ -10,3 +10,6 @@
 [submodule "coldbrew"]
 	path = coldbrew
 	url = git@github.com:Essenceia/Until_Heat_Death_Do_Us_Part.git
+[submodule "coffeepot"]
+	path = coffeepot
+	url = git@github.com:Essenceia/ethernet_switch_asic.git
