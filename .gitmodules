@@ -7,3 +7,6 @@
 [submodule "teapot"]
 	path = teapot
 	url = git@github.com:Essenceia/Teapot.git
+[submodule "coldbrew"]
+	path = coldbrew
+	url = git@github.com:Essenceia/Until_Heat_Death_Do_Us_Part.git
