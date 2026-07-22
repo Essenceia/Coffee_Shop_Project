@@ -1,7 +1,9 @@
 # Coffee-Shop Project
 
-Coffee-shop is a project to build fully open source networking equipement, this includes 
+Coffee-shop is a project to build fully open source networking equipment, this includes 
 both full open source ASIC chips as well as the accompanying PCB hardware. 
+
+This is the central repository for linking to all sub-projects. 
 
 ## ASICs 
 
@@ -32,7 +34,7 @@ already been taped-out at least once:
 
 ## PCBs 
 
-PCB designs and manifacturing files for the hardware accompanying the ASICs:
+PCB designs and manufacturing files for the hardware accompanying the ASICs:
 - [`biscotti` x1 port Ethernet Pmod connector](https://github.com/Essenceia/Ethernet_PCB)
 
 ## AI Policy 
