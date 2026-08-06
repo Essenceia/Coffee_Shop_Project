@@ -13,3 +13,6 @@
 [submodule "coffeepot"]
 	path = coffeepot
 	url = git@github.com:Essenceia/ethernet_switch_asic.git
+[submodule "cortado"]
+	path = cortado
+	url = git@github.com:Essenceia/Cortado_ASIC_Chip.git

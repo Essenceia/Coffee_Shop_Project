@@ -1,7 +1,7 @@
 # Coffee-Shop Project
 
-Coffee-shop is a project to build fully open source networking equipment, this includes 
-both full open source ASIC chips as well as the accompanying PCB hardware. 
+Coffee-shop is a project to build networking equipment using the open source tools, this includes 
+both full ASIC chips as well as the accompanying PCB hardware. 
 
 This is the central repository for linking to all sub-projects. 
 
@@ -14,6 +14,8 @@ already been taped-out at least once:
 - [`teapot` Ethernet wrapper for building network connected accelerators.](https://github.com/Essenceia/Teapot)
 - [`coldbrew` Ethernet connected beacon for broadcasting an ethernet frame with an uptime count until the heat death of the universe.](https://github.com/Essenceia/Until_Heat_Death_Do_Us_Part)
 
+Work in progress: 
+- [`cortado` second generation full switch chip.](https://github.com/Essenceia/Cortado_ASIC_Chip)
 
 #### Expresso
 
@@ -43,7 +45,3 @@ No AI was used by me in the development of this chip.
 
 All code and design decisions are, and will remain, entirely human made. 
 
-## License 
-
-This hardware is distributed under the **strongly** reciprocal CERN Open Hardware Licence Version 2 unless
-otherwise specified.
